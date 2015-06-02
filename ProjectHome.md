@@ -1,0 +1,1 @@
+The plugin comes with a catalog of refactorings and allows to create your own refactorings that you can apply to your projects code.
